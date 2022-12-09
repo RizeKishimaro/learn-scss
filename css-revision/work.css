@@ -1,0 +1,20 @@
+/* .box{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    transition: 1s,3s background-color,color;
+}
+.box:hover{
+    background-color: cadetblue;
+    color: rgb(0, 0, 0);
+} */
+.sidebar{
+    background-color: blueviolet;
+    width: 200px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: none;
+}
