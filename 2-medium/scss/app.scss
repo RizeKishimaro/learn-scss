@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@300&display=swap');
+//reassigned var
+$font-family-base: 'Poppins',sans-serif;
+$secondary: #970808;
+//manually added
+
+.vertical{
+    vertical-align: middle;
+}
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
