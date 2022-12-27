@@ -128,6 +128,9 @@ body{
         display: none !important;
     }
 }
+html{
+    height: 0;
+}
 .line-o-hover{
     text-decoration: none !important;
 }
