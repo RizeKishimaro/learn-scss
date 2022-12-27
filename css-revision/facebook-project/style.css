@@ -123,6 +123,11 @@ body{
 .emoji-react-leap{
     margin-left: -5px;
 }
+@media screen and (max-width:900px) {
+    .small-device{
+        display: none !important;
+    }
+}
 .line-o-hover{
     text-decoration: none !important;
 }
